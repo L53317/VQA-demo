@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/easy-VQA-app/static/css/main.7adf00f7.chunk.css",
+    "main.js": "/easy-VQA-app/static/js/main.a72a3910.chunk.js",
+    "main.js.map": "/easy-VQA-app/static/js/main.a72a3910.chunk.js.map",
+    "runtime-main.js": "/easy-VQA-app/static/js/runtime-main.a1979f71.js",
+    "runtime-main.js.map": "/easy-VQA-app/static/js/runtime-main.a1979f71.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/easy-VQA-app/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.e8f5d031.chunk.js": "/easy-VQA-app/static/js/2.e8f5d031.chunk.js",
+    "static/js/2.e8f5d031.chunk.js.map": "/easy-VQA-app/static/js/2.e8f5d031.chunk.js.map",
+    "index.html": "/easy-VQA-app/index.html",
+    "precache-manifest.1c82f4dd7276de87f8cefeb96d3ff2d9.js": "/easy-VQA-app/precache-manifest.1c82f4dd7276de87f8cefeb96d3ff2d9.js",
+    "service-worker.js": "/easy-VQA-app/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/easy-VQA-app/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.7adf00f7.chunk.css.map": "/easy-VQA-app/static/css/main.7adf00f7.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1979f71.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.e8f5d031.chunk.js",
+    "static/css/main.7adf00f7.chunk.css",
+    "static/js/main.a72a3910.chunk.js"
+  ]
+}
