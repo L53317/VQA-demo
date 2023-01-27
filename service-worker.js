@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/easy-VQA-app/precache-manifest.1c82f4dd7276de87f8cefeb96d3ff2d9.js"
+  "/easy-VQA-app/precache-manifest.8bd30cdca61ba80a79ac90f416c5d99f.js"
 );
 
 self.addEventListener('message', (event) => {
